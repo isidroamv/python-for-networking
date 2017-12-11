@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Persona> 
+    <Id>123</Id>
+    <Nombre>Aldo</Nombre>
+    <Edad>24</Edad>
+</Persona> 

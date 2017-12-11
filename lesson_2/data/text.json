@@ -1,0 +1,9 @@
+{
+    "nombre": "Aldo",
+    "edad": 25,
+    "colores": ["negro", "blanco"],
+    "apellidos": {
+        "apellido_paterno": "venegas",
+        "apeliido_materno": "---"
+    }
+}

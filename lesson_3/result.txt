@@ -1,0 +1,1 @@
+hostname core-sw01-gdl
